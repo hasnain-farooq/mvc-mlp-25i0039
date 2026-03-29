@@ -1,10 +1,10 @@
 # 📘 MVC Project: Multilayer Perceptron
 
 ## 👤 Student Information
-- **Name:** [Your Name]  
-- **Roll No:** [ ]  
-- **Section:** [ ]  
-- **Date:** [ ]  
+- **Name:** Muhammad Hasnain Farooq  
+- **Roll No:** 25i0039
+- **Section:** AI-A
+- **Date:** 29th March, 2026
 
 ---
 

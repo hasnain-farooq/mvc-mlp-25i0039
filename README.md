@@ -69,13 +69,13 @@ The goal is to build strong intuition for neural networks by bridging **mathemat
 
 ## 📈 Loss Curve
 
-![Loss Curve](loss.png)
+![Loss Curve](img/loss.png)
 
 ---
 
 ## 🔢 Sample Predictions
 
-![Predictions](predictions.png)
+![Predictions](img/predictions.png)
 
 ---
 
